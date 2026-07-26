@@ -1,85 +1,301 @@
-<!-- ===================== BANNER ===================== -->
 
-<p align="center">
+Create a premium, modern, recruiter-friendly GitHub Profile README for a software developer named "Sonam Behera".
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Sonam%20Behera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js%20|%20Java&descAlignY=58"/>
+The design should be visually stunning, elegant, responsive, and inspired by Apple, GitHub, Awwwards, and modern developer portfolios.
 
-</p>
+────────────────────────────────────────
+🎨 THEME
+────────────────────────────────────────
 
-<!-- ===================== TYPING ===================== -->
+• Primary Colors:
+  - Purple (#7C3AED)
+  - Lavender
+  - Indigo
+  - Dark Violet
+  - White
 
-<p align="center">
+• Style:
+  - Modern
+  - Glassmorphism
+  - Soft Shadows
+  - Rounded Cards
+  - Neon Glow
+  - Minimal
+  - Cute but Professional
 
-<a href="https://git.io/typing-svg">
+Use beautiful spacing, modern typography, rounded sections, animated badges, and premium layouts.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sonam+Behera;💜+Full+Stack+Developer;⚛️+React.js+Developer;🚀+Building+Modern+Web+Applications;💻+Java+%7C+Node.js+%7C+MySQL;🌱+Always+Learning+New+Technologies"/>
+────────────────────────────────────────
+👩‍💻 HERO ILLUSTRATION
+────────────────────────────────────────
 
-</a>
+On the right side of the Hero section place a beautiful original anime/Pixar-style girl developer.
 
-</p>
+Requirements:
 
----
+• Cute female software engineer
+• Sitting at a modern desk
+• Typing code on a laptop
+• Code visible on laptop screen
+• Purple hoodie
+• Long black hair
+• Friendly smile
+• Large expressive eyes
+• RGB Mechanical Keyboard
+• Coffee mug
+• Notebook
+• Headphones
+• Small desk plant
+• Modern coding workspace
+• Dual monitor setup
+• Purple LED lighting
 
-# 👩‍💻 About Me
+Around her float glowing icons:
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+React
+JavaScript
+Java
+Node.js
+Express
+MySQL
+HTML5
+CSS3
+Git
+GitHub
+C
+C++
 
-🎓 **B.Tech in Information Technology**
+Background:
+
+• Stars
+• Sparkles
+• Glassmorphism circles
+• Floating particles
+• Purple gradients
+• Soft glowing lights
+
+Animations:
+
+• Typing animation
+• Hair slightly moving
+• Blinking eyes
+• Floating particles
+• Cursor following mouse
+• Subtle breathing animation
+
+Make the illustration cute, premium and recruiter-friendly.
+
+────────────────────────────────────────
+🎨 HERO BANNER
+────────────────────────────────────────
+
+Large premium hero banner.
+
+Display:
+
+Sonam Behera
+
+Subtitle:
+
+Full Stack Developer
+
+Second Line:
+
+Building Modern Web Applications with React, Node.js & Java
+
+Use modern glowing typography.
+
+────────────────────────────────────────
+⌨️ TYPING ANIMATION
+────────────────────────────────────────
+
+Animated text cycling through:
+
+👋 Hi, I'm Sonam Behera
+
+💜 Full Stack Developer
+
+⚛ React.js Developer
+
+🚀 Building Modern Web Applications
+
+💻 Java | Node.js | MySQL
+
+🌱 Always Learning New Technologies
+
+────────────────────────────────────────
+👩 ABOUT ME
+────────────────────────────────────────
+
+Include:
+
+🎓 B.Tech in Information Technology
 
 💜 Passionate about building clean, responsive and modern web applications.
 
-🚀 Interested in **Full Stack Development** using React.js, Node.js, Express.js and MySQL.
+🚀 Interested in Full Stack Development using React.js, Node.js, Express.js and MySQL.
 
 💡 I enjoy transforming ideas into user-friendly applications with beautiful UI and practical functionality.
 
 🌱 Currently improving my knowledge of advanced React, backend development and software engineering.
 
-📍 **Location:** Bhubaneswar, Odisha, India
+📍 Bhubaneswar, Odisha, India
 
----
+────────────────────────────────────────
+🛠 TECH STACK
+────────────────────────────────────────
 
-## 🌐 Connect With Me
+Programming Languages
 
-<p align="center">
+• C
+• C++
+• Java
+• JavaScript
 
-<a href="mailto:ssona2533@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Frontend
 
-<a href="https://www.linkedin.com/in/sonam-behera-a17a682b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+• HTML5
+• CSS3
+• React.js
 
-<a href="https://github.com/SonamBehera">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Backend
 
-</p>
+• Node.js
+• Express.js
 
----
+Database
 
-## 💜 A Little About Me
+• MySQL
 
-✨ I enjoy creating projects that combine clean design with practical functionality.
+Tools
 
-💻 My favorite technologies include **React.js**, **Java**, **Node.js**, and **MySQL**.
+• Git
+• GitHub
+• VS Code
 
-🚀 I love building projects that solve real-world problems and help me grow as a developer.
+Display every technology as beautiful modern badges.
 
-☕ **Fun Fact:** I believe every project is an opportunity to learn something new.
+────────────────────────────────────────
+📊 GITHUB STATS
+────────────────────────────────────────
 
----
+Include
 
-<p align="center">
+GitHub Stats
 
-> **"Code. Learn. Build. Repeat." 🚀**
+GitHub Streak
 
-</p>
+Top Languages
 
----
+Contribution Graph
 
-<p align="center">
+GitHub Trophies
 
-<img src="https://komarev.com/ghpvc/?username=SonamBehera&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+Contribution Calendar
 
-</p>
+────────────────────────────────────────
+🚀 FEATURED PROJECTS
+────────────────────────────────────────
+
+Beautiful project cards.
+
+Projects:
+
+🚗 Smart Parking Management System
+
+💻 CodeCollab
+
+💰 FinTrack
+
+🌐 Portfolio Website
+
+Each card should contain:
+
+Project Image
+
+Project Name
+
+Description
+
+Technology Used
+
+GitHub Button
+
+Live Demo Button
+
+────────────────────────────────────────
+🌐 CONNECT WITH ME
+────────────────────────────────────────
+
+Display beautiful badges.
+
+Email
+
+ssona2533@gmail.com
+
+GitHub
+
+https://github.com/SonamBehera
+
+LinkedIn
+
+https://www.linkedin.com/in/sonam-behera-a17a682b9/
+
+────────────────────────────────────────
+💜 EXTRA SECTIONS
+────────────────────────────────────────
+
+Visitor Counter
+
+Developer Quote
+
+Fun Fact
+
+Random Dev Joke
+
+Coding Activity
+
+GitHub Snake Animation
+
+Footer with purple gradient
+
+────────────────────────────────────────
+✨ MICRO ANIMATIONS
+────────────────────────────────────────
+
+Hover Cards
+
+Glow Buttons
+
+Floating Icons
+
+Smooth Fade
+
+Glass Effects
+
+Animated Borders
+
+Gradient Text
+
+Parallax Elements
+
+────────────────────────────────────────
+📱 RESPONSIVE
+────────────────────────────────────────
+
+Desktop
+
+Tablet
+
+Mobile
+
+Everything must scale beautifully.
+
+────────────────────────────────────────
+🎯 OVERALL GOAL
+────────────────────────────────────────
+
+The GitHub profile should feel like a premium personal brand, combining professionalism with a unique, cute aesthetic. The anime/Pixar-style girl developer should integrate naturally into the design, and the overall appearance should be memorable, polished, and visually impressive while remaining clean and easy to read.
+```
+
+This prompt is suitable for generating a **premium GitHub profile** that matches the purple portfolio theme you've been working toward.
