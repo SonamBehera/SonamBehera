@@ -43,7 +43,7 @@
 
 <td width="45%" align="center">
 
-<img src="./assets/girl-developer.png" width="360"/>
+<img src="https://pngtree.com/free-backgrounds-photos/anime-girl">
 
 </td>
 
