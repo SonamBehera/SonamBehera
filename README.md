@@ -42,9 +42,13 @@
 </td>
 
 <td width="45%" align="center">
+<td width="45%" align="center">
 
-<img src="https://pngtree.com/free-backgrounds-photos/anime-girl">
+<img src="./assets/girl-developer.png"
+     width="340"
+     alt="Girl Developer"/>
 
+</td>
 </td>
 
 </tr>
