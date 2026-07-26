@@ -42,11 +42,13 @@
 </td>
 
 <td width="45%" align="center">
-<td width="45%" align="center">
 
-<img src="./assets/girl-developer.png"
-     width="340"
-     alt="Girl Developer"/>
+<img
+src="https://raw.githubusercontent.com/SonamBehera/SonamBehera/main/avtar.png"
+width="340"
+alt="Anime Girl Developer"/>
+
+</td>
 
 </td>
 </td>
