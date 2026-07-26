@@ -1,292 +1,85 @@
+<!-- ================= HERO ================= -->
 
+<table>
+<tr>
+<td width="65%">
 
-The design should be visually stunning, elegant, responsive, and inspired by Apple, GitHub, Awwwards, and modern developer portfolios.
-
-────────────────────────────────────────
-🎨 THEME
-────────────────────────────────────────
+# Hi 👋, I'm Sonam Behera
 
-• Primary Colors:
-  - Purple (#7C3AED)
-  - Lavender
-  - Indigo
-  - Dark Violet
-  - White
+### 💜 Full Stack Developer
 
-• Style:
-  - Modern
-  - Glassmorphism
-  - Soft Shadows
-  - Rounded Cards
-  - Neon Glow
-  - Minimal
-  - Cute but Professional
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=8A2BE2&width=500&lines=React.js+Developer;Node.js+Enthusiast;Java+Programmer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
-Use beautiful spacing, modern typography, rounded sections, animated badges, and premium layouts.
+💜 Passionate about building modern and responsive web applications.
 
-────────────────────────────────────────
-👩‍💻 HERO ILLUSTRATION
-────────────────────────────────────────
+🚀 Interested in **React.js**, **Node.js**, **Express.js**, and **MySQL**.
 
-On the right side of the Hero section place a beautiful original anime/Pixar-style girl developer.
+🌱 Continuously learning new technologies and improving my development skills.
 
-Requirements:
+📍 **Bhubaneswar, Odisha, India**
 
-• Cute female software engineer
-• Sitting at a modern desk
-• Typing code on a laptop
-• Code visible on laptop screen
-• Purple hoodie
-• Long black hair
-• Friendly smile
-• Large expressive eyes
-• RGB Mechanical Keyboard
-• Coffee mug
-• Notebook
-• Headphones
-• Small desk plant
-• Modern coding workspace
-• Dual monitor setup
-• Purple LED lighting
+</td>
 
-Around her float glowing icons:
+<td width="35%" align="center">
 
-React
-JavaScript
-Java
-Node.js
-Express
-MySQL
-HTML5
-CSS3
-Git
-GitHub
-C
-C++
+<img src="./assets/girl-developer.png" width="280"/>
 
-Background:
+</td>
 
-• Stars
-• Sparkles
-• Glassmorphism circles
-• Floating particles
-• Purple gradients
-• Soft glowing lights
+</tr>
+</table>
 
-Animations:
+---
 
-• Typing animation
-• Hair slightly moving
-• Blinking eyes
-• Floating particles
-• Cursor following mouse
-• Subtle breathing animation
+## 🌐 Connect With Me
 
-Make the illustration cute, premium and recruiter-friendly.
+<p align="center">
 
-────────────────────────────────────────
-🎨 HERO BANNER
-────────────────────────────────────────
+<a href="mailto:ssona2533@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Large premium hero banner.
+<a href="https://www.linkedin.com/in/sonam-behera-a17a682b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Display:
+<a href="https://github.com/SonamBehera">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Sonam Behera
+</p>
 
-Subtitle:
+---
 
-Full Stack Developer
+## 👩‍💻 About Me
 
-Second Line:
+- 🎓 B.Tech in Information Technology
+- 💻 Full Stack Developer
+- ⚛️ React.js Developer
+- 🌐 Building scalable web applications
+- 💡 Passionate about clean UI & great user experience
+- 🚀 Always exploring new technologies
 
-Building Modern Web Applications with React, Node.js & Java
+---
 
-Use modern glowing typography.
+## 💜 Favourite Technologies
 
-────────────────────────────────────────
-⌨️ TYPING ANIMATION
-────────────────────────────────────────
+<p align="center">
 
-Animated text cycling through:
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,java,js,html,css,mysql,git,github,vscode"/>
 
-👋 Hi, I'm Sonam Behera
+</p>
 
-💜 Full Stack Developer
+---
 
-⚛ React.js Developer
+<p align="center">
 
-🚀 Building Modern Web Applications
+> **"Code. Learn. Build. Repeat. 🚀"**
 
-💻 Java | Node.js | MySQL
+</p>
 
-🌱 Always Learning New Technologies
+<p align="center">
 
-────────────────────────────────────────
-👩 ABOUT ME
-────────────────────────────────────────
+<img src="https://komarev.com/ghpvc/?username=SonamBehera&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
-Include:
-
-🎓 B.Tech in Information Technology
-
-💜 Passionate about building clean, responsive and modern web applications.
-
-🚀 Interested in Full Stack Development using React.js, Node.js, Express.js and MySQL.
-
-💡 I enjoy transforming ideas into user-friendly applications with beautiful UI and practical functionality.
-
-🌱 Currently improving my knowledge of advanced React, backend development and software engineering.
-
-📍 Bhubaneswar, Odisha, India
-
-────────────────────────────────────────
-🛠 TECH STACK
-────────────────────────────────────────
-
-Programming Languages
-
-• C
-• C++
-• Java
-• JavaScript
-
-Frontend
-
-• HTML5
-• CSS3
-• React.js
-
-Backend
-
-• Node.js
-• Express.js
-
-Database
-
-• MySQL
-
-Tools
-
-• Git
-• GitHub
-• VS Code
-
-Display every technology as beautiful modern badges.
-
-────────────────────────────────────────
-📊 GITHUB STATS
-────────────────────────────────────────
-
-Include
-
-GitHub Stats
-
-GitHub Streak
-
-Top Languages
-
-Contribution Graph
-
-GitHub Trophies
-
-Contribution Calendar
-
-────────────────────────────────────────
-🚀 FEATURED PROJECTS
-────────────────────────────────────────
-
-Beautiful project cards.
-
-Projects:
-
-🚗 Smart Parking Management System
-
-💻 CodeCollab
-
-💰 FinTrack
-
-🌐 Portfolio Website
-
-Each card should contain:
-
-Project Image
-
-Project Name
-
-Description
-
-Technology Used
-
-GitHub Button
-
-Live Demo Button
-
-────────────────────────────────────────
-🌐 CONNECT WITH ME
-────────────────────────────────────────
-
-Display beautiful badges.
-
-Email
-
-ssona2533@gmail.com
-
-GitHub
-
-https://github.com/SonamBehera
-
-LinkedIn
-
-https://www.linkedin.com/in/sonam-behera-a17a682b9/
-
-────────────────────────────────────────
-💜 EXTRA SECTIONS
-────────────────────────────────────────
-
-Visitor Counter
-
-Developer Quote
-
-Fun Fact
-
-Random Dev Joke
-
-Coding Activity
-
-GitHub Snake Animation
-
-Footer with purple gradient
-
-────────────────────────────────────────
-✨ MICRO ANIMATIONS
-────────────────────────────────────────
-
-Hover Cards
-
-Glow Buttons
-
-Floating Icons
-
-Smooth Fade
-
-Glass Effects
-
-Animated Borders
-
-Gradient Text
-
-Parallax Elements
-
-────────────────────────────────────────
-📱 RESPONSIVE
-────────────────────────────────────────
-
-Desktop
-
-Tablet
-
-Mobile
-
-Everything must scale beautifully.
-
+</p>
