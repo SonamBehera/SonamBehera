@@ -1,5 +1,4 @@
 
-Create a premium, modern, recruiter-friendly GitHub Profile README for a software developer named "Sonam Behera".
 
 The design should be visually stunning, elegant, responsive, and inspired by Apple, GitHub, Awwwards, and modern developer portfolios.
 
@@ -291,11 +290,3 @@ Mobile
 
 Everything must scale beautifully.
 
-────────────────────────────────────────
-🎯 OVERALL GOAL
-────────────────────────────────────────
-
-The GitHub profile should feel like a premium personal brand, combining professionalism with a unique, cute aesthetic. The anime/Pixar-style girl developer should integrate naturally into the design, and the overall appearance should be memorable, polished, and visually impressive while remaining clean and easy to read.
-```
-
-This prompt is suitable for generating a **premium GitHub profile** that matches the purple portfolio theme you've been working toward.
